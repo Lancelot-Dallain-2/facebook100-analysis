@@ -34,23 +34,23 @@
 }
 
 % Title information
-\title{\textbf{Analyse Complète des Réseaux Sociaux Facebook100:\\
+\title{\textbf{Analyse des Réseaux Sociaux Facebook100:\\
 Structure, Homophilie et Prédictibilité}}
-\author{Science des Réseaux - NET 4103/7431\\
-Travail Universitaire}
-\date{20 janvier 2026}
+\author{\textbf{Lancelot Dallain}\\
+Master TRIED}
+\date{Janvier 2026}
 
 \begin{document}
 
 \maketitle
 
 \begin{abstract}
-Ce rapport présente une analyse empirique complète du jeu de données Facebook100, comprenant 100 réseaux sociaux universitaires de septembre 2005. Nous étudions cinq questions fondamentales en science des réseaux : (1) les propriétés structurelles des réseaux sociaux incluant les distributions de degrés, les coefficients de clustering et leurs corrélations ; (2) les patterns d'assortativité à travers cinq attributs de nœuds (statut, spécialité, degré, résidence, genre) sur les 100 réseaux ; (3) la performance de prédiction de liens utilisant trois métriques classiques ; (4) la propagation de labels semi-supervisée pour la récupération d'attributs manquants ; et (5) la détection de communautés avec analyse de modularité. Notre analyse révèle de forts effets d'homophilie, particulièrement pour la proximité géographique (résidence : $r=0,175$), des distributions de degrés sans échelle caractéristiques des réseaux sociaux, et un clustering élevé malgré la faible densité des réseaux. Nous démontrons que des méthodes simples de prédiction de liens atteignent jusqu'à 48\% de précision, tandis que la propagation de labels récupère les attributs manquants avec une précision parfaite lorsque l'homophilie structurelle est forte. Ces résultats contribuent à la compréhension des principes organisateurs des réseaux sociaux universitaires et valident les théories classiques de la science des réseaux sur des données réelles à grande échelle.
+Ce rapport analyse 100 réseaux sociaux universitaires du jeu de données Facebook100 (septembre 2005). J'examine cinq aspects : la structure des réseaux (distributions de degrés, clustering), l'assortativité sur cinq attributs (résidence, degré, genre, statut, spécialité), la prédiction de liens, la propagation de labels et la détection de communautés. Les résultats montrent une forte homophilie géographique ($r=0,175$ pour les résidences), des distributions de degrés en loi de puissance, et un clustering élevé malgré la faible densité. Les voisins communs atteignent 48\% de précision en prédiction de liens, et la propagation de labels récupère parfaitement les attributs manquants quand l'homophilie est forte.
 \end{abstract}
 
 \section{Introduction}
 
-Les réseaux sociaux présentent des propriétés structurelles remarquables qui les distinguent des graphes aléatoires : phénomènes de petit monde, distributions de degrés à queue lourde, coefficients de clustering élevés et forts effets d'homophilie \cite{newman2003structure}. Le jeu de données Facebook100 offre une opportunité unique d'étudier ces propriétés de manière systématique à travers 100 universités américaines, capturant un instantané des réseaux sociaux universitaires dans leur habitat numérique naturel vers 2005.
+Les réseaux sociaux ont des propriétés structurelles particulières : phénomènes de petit monde, distributions de degrés en loi de puissance, clustering élevé et homophilie. Le jeu de données Facebook100 permet d'étudier ces propriétés sur 100 universités américaines en septembre 2005.
 
 \subsection{Questions de Recherche}
 
