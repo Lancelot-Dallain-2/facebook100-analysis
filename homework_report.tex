@@ -228,7 +228,7 @@ r = \frac{\sum_{ij} (A_{ij} - k_i k_j / 2m)(x_i - \bar{x})(x_j - \bar{x})}{\sum_
 \end{equation}
 où $A$ est la matrice d'adjacence, $k_i$ est le degré du nœud $i$, $m$ est le nombre total d'arêtes, et $x_i$ est la valeur de l'attribut du nœud $i$.
 
-Pour les attributs catégoriels (statut, spécialité, résidence, genre), nous utilisons \texttt{attribute\_assortativity\_coefficient}. Pour le degré continu, nous utilisons \texttt{degree\_assortativity\_coefficient}.
+Pour les attributs catégoriels (statut, spécialité, résidence, genre), nous calculons le coefficient d'assortativité d'attribut. Pour le degré continu, nous utilisons le coefficient d'assortativité de degré.
 
 \subsection{Résultats}
 
@@ -264,6 +264,8 @@ spécialité & - & - & - & - & 0\% \\
     \caption{Analyse statistique comparative de l'assortativité par attribut. Le panneau gauche montre la moyenne et les barres d'erreur standard. Le panneau droit affiche les boîtes à moustaches révélant les formes de distribution. L'homophilie de résidence est constamment l'effet le plus fort, avec une variance minimale à travers les universités.}
     \label{fig:q3b_analysis}
 \end{figure}
+
+\clearpage
 
 \subsection{Interprétation par Attribut}
 
