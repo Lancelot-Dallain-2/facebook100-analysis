@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.10)  21 JAN 2026 00:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.10)  21 JAN 2026 00:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./homework_report.tex
-(homework_report.tex
+**"c:/Users/lance/Desktop/1_TRIED/1. Lancelot/facebook100-analysis/homework_report.tex"
+(c:/Users/lance/Desktop/1_TRIED/1. Lancelot/facebook100-analysis/homework_report.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -22,22 +22,18 @@ File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2024/01/07 v24.1 The Babel package
 \babel@savecnt=\count195
 \U@D=\dimen141
 \l@unhyphenated=\language79
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count196
 
@@ -45,15 +41,10 @@ Package: babel 2024/01/07 v24.1 The Babel package
 * Local config file bblopts.cfg used
 *
 (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french.l
-df
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french.ldf
 Language: french 2025-08-15 v4.0e French support from the babel system
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french3.
-ldf
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french3.ldf
 Language: french 2025-08-15 v3.7e French support from the babel system
 \FB@stdchar=\count197
 Package babel Info: Making : an active character on input line 273.
@@ -76,31 +67,24 @@ Package babel Info: Making ? an active character on input line 276.
 \leftmarginFB=\dimen148
 \parindentFFN=\dimen149
 \FBfnindent=\dimen150
-)))
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr\babel
--french.tex
+))) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr\babel-french.tex
 Package babel Info: Importing font and identification data for french
 (babel)             from babel-fr.ini. Reported on input line 11.
-)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2023/05/13 v2.17o AMS math features
 \@mathmargin=\skip50
 
 For additional information on amsmath, use the `?' option.
 (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks20
 \ex@=\dimen151
-))
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+)) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen152
-)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count270
@@ -150,11 +134,9 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \mathdisplay@stack=\toks24
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
-)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
@@ -172,39 +154,29 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@postskip=\skip54
 \thm@headsep=\skip55
 \dth@everypar=\toks30
-)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks31
-)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
-fg
+) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen160
 \Gin@req@width=\dimen161
-)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen162
 \captionmargin=\dimen163
@@ -251,80 +223,55 @@ Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \bigstrutjot=\dimen183
 ) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
-)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
-ty
+) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
-keys.sty
+) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
-ty
+) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
-.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
+) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-))
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+)) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
-.sty
+) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
-lestring.sty
+) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count291
-)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count292
 )
 \@linkdim=\dimen184
 \Hy@linkcounter=\count293
 \Hy@pagecounter=\count294
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count295
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -337,21 +284,16 @@ Package hyperref Info: Backreferencing OFF on input line 4201.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4448.
 \c@Hy@tempcnt=\count296
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4786.
 \XeTeXLinkMargin=\dimen185
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
-.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count297
 \Field@Width=\dimen186
@@ -363,8 +305,7 @@ Package hyperref Info: backreferencing OFF on input line 6080.
 Package hyperref Info: Link coloring OFF on input line 6085.
 Package hyperref Info: Link coloring with OCG OFF on input line 6090.
 Package hyperref Info: PDF/A mode OFF on input line 6095.
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
@@ -373,34 +314,25 @@ package with kernel methods
 \c@Hfootnote=\count300
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2023-11-26 v7.01g Hyperref driver for pdfTeX
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
-kage
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
 \Fld@listcount=\count301
 \c@bookmark@seq@number=\count302
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
-echeck.sty
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
-ounter.sty
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-84.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
 )
 \Hy@SectionHShift=\skip58
-)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count303
@@ -415,24 +347,20 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen194
 \Gm@layoutvoffset=\dimen195
 \Gm@dimlist=\toks32
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count306
 \float@exts=\toks33
 \float@box=\box53
 \@float@everytoks=\toks34
 \@floatcapt=\box54
-)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
 Package xcolor Info: Model `RGB' extended on input line 1366.
@@ -455,17 +383,16 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 \lst@newlines=\count311
 \lst@lineno=\count312
 \lst@maxwidth=\dimen199
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
 \c@lstnumber=\count313
 \lst@skipnumbers=\count314
 \lst@framebox=\box56
-)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2023/02/27 1.9 listings configuration
 ))
 Package: listings 2023/02/27 1.9 (Carsten Heinz)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip59
 \bibsep=\skip60
@@ -478,9 +405,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 34.
 Package french3.ldf Warning: Please load the "natbib" package
 (french3.ldf)                BEFORE babel/french; reported on input line 43.
 
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
-tex.def
+(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count316
 \l__pdf_internal_box=\box57
@@ -506,9 +431,7 @@ LaTeX Font Info:    ... okay on input line 43.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
 LaTeX Font Info:    ... okay on input line 43.
 LaTeX Info: Redefining \degres on input line 43.
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
-ii
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count317
 \scratchdimen=\dimen256
@@ -521,15 +444,10 @@ ii
 \MPnumerator=\count321
 \makeMPintoPDFobject=\count322
 \everyMPtoPDFconversion=\toks37
-)
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
-ase.sty
+) (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
-fg
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
@@ -579,80 +497,61 @@ Package hyperref Info: Link coloring ON on input line 43.
 
 \c@lstlisting=\count323
 LaTeX Font Info:    Trying to load font information for U+msa on input line 46.
-
 (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 46.
-
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-[1
+) [1
 
 {C:/Users/lance/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
 <results/q2/Q2a_degree_distributions.png, id=166, 1074.8958pt x 714.5094pt>
 File: results/q2/Q2a_degree_distributions.png Graphic file (type png)
 <use results/q2/Q2a_degree_distributions.png>
-Package pdftex.def Info: results/q2/Q2a_degree_distributions.png  used on input
- line 124.
+Package pdftex.def Info: results/q2/Q2a_degree_distributions.png  used on input line 124.
 (pdftex.def)             Requested size: 455.24411pt x 302.61038pt.
-
-[3 <./results/q2/Q2a_degree_distributions.png>]
+ [3 <./results/q2/Q2a_degree_distributions.png>]
 <results/q2/Q2b_clustering_density_viz.png, id=177, 1077.0639pt x 282.0939pt>
 File: results/q2/Q2b_clustering_density_viz.png Graphic file (type png)
 <use results/q2/Q2b_clustering_density_viz.png>
-Package pdftex.def Info: results/q2/Q2b_clustering_density_viz.png  used on inp
-ut line 157.
+Package pdftex.def Info: results/q2/Q2b_clustering_density_viz.png  used on input line 157.
 (pdftex.def)             Requested size: 364.19667pt x 95.38551pt.
  [4 <./results/q2/Q2b_clustering_density_viz.png>]
 <results/q2/Q2c_degree_vs_clustering.png, id=186, 1076.3412pt x 714.5094pt>
 File: results/q2/Q2c_degree_vs_clustering.png Graphic file (type png)
 <use results/q2/Q2c_degree_vs_clustering.png>
-Package pdftex.def Info: results/q2/Q2c_degree_vs_clustering.png  used on input
- line 192.
+Package pdftex.def Info: results/q2/Q2c_degree_vs_clustering.png  used on input line 192.
 (pdftex.def)             Requested size: 455.24411pt x 302.20699pt.
 
 Overfull \hbox (14.2756pt too wide) in paragraph at lines 204--205
-[]\T1/cmr/bx/n/12 Universalité \T1/cmr/m/n/12 : L'ef-fet est co-hé-rent entre l
-es ins-ti-tu-tions (Pear-son $\OML/cmm/m/it/12 r \OMS/cmsy/m/n/12 2 \OT1/cmr/m/
-n/12 [\OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 3
-8\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 ; \OT
-1/cmr/m/n/12 27]$\T1/cmr/m/n/12 ),
+[]\T1/cmr/bx/n/12 Universalité \T1/cmr/m/n/12 : L'ef-fet est co-hé-rent entre les ins-ti-tu-tions (Pear-son $\OML/cmm/m/it/12 r \OMS/cmsy/m/n/12 2 \OT1/cmr/m/n/12 [\OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 38\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 27]$\T1/cmr/m/n/12 ),
  []
 
 [5 <./results/q2/Q2c_degree_vs_clustering.png>] [6]
 <results/q3/Q3a_assortativity_patterns.png, id=203, 1004.7939pt x 1436.7276pt>
 File: results/q3/Q3a_assortativity_patterns.png Graphic file (type png)
 <use results/q3/Q3a_assortativity_patterns.png>
-Package pdftex.def Info: results/q3/Q3a_assortativity_patterns.png  used on inp
-ut line 256.
+Package pdftex.def Info: results/q3/Q3a_assortativity_patterns.png  used on input line 256.
 (pdftex.def)             Requested size: 432.48051pt x 618.39467pt.
  [7]
 Overfull \vbox (12.61157pt too high) has occurred while \output is active []
 
-
-[8 <./results/q3/Q3a_assortativity_patterns.png>]
+ [8 <./results/q3/Q3a_assortativity_patterns.png>]
 <results/q3/Q3b_comparative_analysis.png, id=216, 1004.7939pt x 354.8457pt>
 File: results/q3/Q3b_comparative_analysis.png Graphic file (type png)
 <use results/q3/Q3b_comparative_analysis.png>
-Package pdftex.def Info: results/q3/Q3b_comparative_analysis.png  used on input
- line 263.
+Package pdftex.def Info: results/q3/Q3b_comparative_analysis.png  used on input line 263.
 (pdftex.def)             Requested size: 432.48051pt x 152.73227pt.
  [9 <./results/q3/Q3b_comparative_analysis.png>] [10
 
 ] [11]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 4
-02.
-
-(C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 402.
+ (C:\Users\lance\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)
-[12] [13] [14] [15] [16] [17]
+) [12] [13] [14] [15] [16] [17]
 Overfull \hbox (20.48549pt too wide) in paragraph at lines 613--614
-[]\T1/cmr/m/n/12 Des in-tro-duc-tions ci-blées (connec-tant des hubs de dif-fé-
-rentes com-mu-nau-tés) pourraient-
+[]\T1/cmr/m/n/12 Des in-tro-duc-tions ci-blées (connec-tant des hubs de dif-fé-rentes com-mu-nau-tés) pourraient-
  []
 
 [18] [19] (homework_report.aux)
@@ -664,39 +563,17 @@ Package rerunfilecheck Info: File `homework_report.out' has not changed.
 (rerunfilecheck)             Checksum: C6F97CC6506A59E970BF5A0FDB008F18;5167.
  ) 
 Here is how much of TeX's memory you used:
- 16241 strings out of 474486
- 260545 string characters out of 5743754
+ 16243 strings out of 474486
+ 260513 string characters out of 5743754
  1939542 words of memory out of 5000000
  38177 multiletter control sequences out of 15000+600000
  578130 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,790b,570s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\lance\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt
-1200.pk> <C:\Users\lance\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
-0\tcrm1200.pk> <C:\Users\lance\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
-/dpi600\ecti1200.pk> <C:\Users\lance\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\eccc1200.pk> <C:\Users\lance\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\lance\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\lance\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\lance\AppData\Local\MiKT
-eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\lance\AppData\Loca
-l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\lance\AppDat
-a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\lance\
-AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\
-lance\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk><C:/U
-sers/lance/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.
-pfb><C:/Users/lance/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmmi10.pfb><C:/Users/lance/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmmi12.pfb><C:/Users/lance/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmmi8.pfb><C:/Users/lance/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/lance/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/lance/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/lance/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/lance/A
-ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on homework_report.pdf (19 pages, 3170790 bytes).
+ 75i,11n,79p,854b,570s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\lance\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\lance\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\lance\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\lance\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1200.pk> <C:\Users\lance\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\lance\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\lance\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\lance\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\lance\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\lance\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\lance\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\lance\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk><C:/Users/lance/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/lance/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/lance/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/lance/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/lance/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/lance/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/lance/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/lance/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/lance/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on homework_report.pdf (19 pages, 3170280 bytes).
 PDF statistics:
- 875 PDF objects out of 1000 (max. 8388607)
+ 874 PDF objects out of 1000 (max. 8388607)
  142 named destinations out of 1000 (max. 500000)
  290 words of extra memory for PDF output out of 10000 (max. 10000000)
 
