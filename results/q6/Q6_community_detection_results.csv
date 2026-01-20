@@ -1,0 +1,7 @@
+Network,Algorithm,Num Communities,Modularity,Largest Community,Smallest Community,Avg Community Size
+American75,Greedy Modularity,27,0.38086031826816646,2587,2,236.5185185185185
+Amherst41,Greedy Modularity,5,0.3667320431300666,1088,2,447.0
+Baylor93,Greedy Modularity,14,0.35523399822890966,5930,2,914.5
+Brown11,Greedy Modularity,25,0.3248216146384865,3518,2,344.0
+Colgate88,Greedy Modularity,5,0.34416278519110977,1830,2,696.4
+Emory27,Greedy Modularity,22,0.41250979619955186,3713,2,339.09090909090907

@@ -1,0 +1,25 @@
+"""
+requirements.txt for NET 4103/7431 Homework
+Network Science and Graph Learning
+
+Core dependencies for network analysis on Facebook100 dataset.
+"""
+
+# Core scientific computing
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Network analysis
+networkx>=3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Optional: Community detection (Louvain)
+# python-louvain>=0.16
+# If not available, code will fallback to NetworkX greedy modularity
+
+# PDF reading (for extracting homework text)
+# pypdf>=3.0.0

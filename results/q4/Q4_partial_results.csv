@@ -1,0 +1,10 @@
+Network,Metric,Fraction,k,Precision,Recall
+Northeastern19,common_neighbors,0.05,50,0.4800,0.0013
+Northeastern19,common_neighbors,0.05,100,0.4500,0.0024
+Northeastern19,common_neighbors,0.05,200,0.4300,0.0045
+Northeastern19,jaccard,0.05,50,0.0800,0.0002
+Northeastern19,jaccard,0.05,100,0.1100,0.0006
+Northeastern19,jaccard,0.05,200,0.3400,0.0036
+Northeastern19,adamic_adar,0.05,50,0.4600,0.0012
+Northeastern19,adamic_adar,0.05,100,0.4200,0.0022
+Northeastern19,adamic_adar,0.05,200,0.4050,0.0042

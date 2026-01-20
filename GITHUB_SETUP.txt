@@ -1,0 +1,30 @@
+COMMANDES GITHUB - À EXÉCUTER DANS LE TERMINAL
+=================================================
+
+1. INITIALISER LE DÉPÔT (dans le dossier EXAM_FINAL) :
+   cd "c:\Users\lance\Desktop\1_TRIED\1. Lancelot\1. GRAPHS ComplexNetTD-master\EXAM 3 LLM - Copy\EXAM_FINAL"
+   git init
+   git add .
+   git commit -m "Initial commit - Analyse Facebook100 Networks"
+
+2. CRÉER UN NOUVEAU DÉPÔT SUR GITHUB :
+   - Aller sur https://github.com/new
+   - Nom du dépôt : facebook100-analysis
+   - Description : Analyse complète des réseaux sociaux Facebook100 - Master TRIED
+   - Public
+   - NE PAS initialiser avec README (on a déjà le nôtre)
+   - Cliquer "Create repository"
+
+3. LIER ET POUSSER :
+   git remote add origin https://github.com/VOTRE-USERNAME/facebook100-analysis.git
+   git branch -M main
+   git push -u origin main
+
+REMPLACER "VOTRE-USERNAME" par votre nom d'utilisateur GitHub !
+
+LIEN À FOURNIR :
+https://github.com/VOTRE-USERNAME/facebook100-analysis
+
+Si problème d'authentification :
+- Utiliser un Personal Access Token au lieu du mot de passe
+- Générer un token : GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic) → Generate new token
