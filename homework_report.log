@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.10)  21 JAN 2026 00:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.10)  21 JAN 2026 00:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -485,18 +485,6 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count316
 \l__pdf_internal_box=\box57
 ) (homework_report.aux)
-Runaway argument?
-{\contentsline {subsubsection}{\numberline {2.2.3}Corrélation Degré\ETC.
-! File ended while scanning use of \@writefile.
-<inserted text> 
-                \par 
-l.43 \begin{document}
-                     
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
-
 \openout1 = `homework_report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
@@ -604,7 +592,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [1
 
 {C:/Users/lance/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
-<results/q2/Q2a_degree_distributions.png, id=41, 1074.8958pt x 714.5094pt>
+<results/q2/Q2a_degree_distributions.png, id=166, 1074.8958pt x 714.5094pt>
 File: results/q2/Q2a_degree_distributions.png Graphic file (type png)
 <use results/q2/Q2a_degree_distributions.png>
 Package pdftex.def Info: results/q2/Q2a_degree_distributions.png  used on input
@@ -612,14 +600,14 @@ Package pdftex.def Info: results/q2/Q2a_degree_distributions.png  used on input
 (pdftex.def)             Requested size: 455.24411pt x 302.61038pt.
 
 [3 <./results/q2/Q2a_degree_distributions.png>]
-<results/q2/Q2b_clustering_density_viz.png, id=52, 1077.0639pt x 282.0939pt>
+<results/q2/Q2b_clustering_density_viz.png, id=177, 1077.0639pt x 282.0939pt>
 File: results/q2/Q2b_clustering_density_viz.png Graphic file (type png)
 <use results/q2/Q2b_clustering_density_viz.png>
 Package pdftex.def Info: results/q2/Q2b_clustering_density_viz.png  used on inp
 ut line 157.
 (pdftex.def)             Requested size: 364.19667pt x 95.38551pt.
  [4 <./results/q2/Q2b_clustering_density_viz.png>]
-<results/q2/Q2c_degree_vs_clustering.png, id=62, 1076.3412pt x 714.5094pt>
+<results/q2/Q2c_degree_vs_clustering.png, id=186, 1076.3412pt x 714.5094pt>
 File: results/q2/Q2c_degree_vs_clustering.png Graphic file (type png)
 <use results/q2/Q2c_degree_vs_clustering.png>
 Package pdftex.def Info: results/q2/Q2c_degree_vs_clustering.png  used on input
@@ -635,23 +623,23 @@ n/12 [\OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 3
  []
 
 [5 <./results/q2/Q2c_degree_vs_clustering.png>] [6]
-<results/q3/Q3a_assortativity_patterns.png, id=83, 1004.7939pt x 1436.7276pt>
+<results/q3/Q3a_assortativity_patterns.png, id=203, 1004.7939pt x 1436.7276pt>
 File: results/q3/Q3a_assortativity_patterns.png Graphic file (type png)
 <use results/q3/Q3a_assortativity_patterns.png>
 Package pdftex.def Info: results/q3/Q3a_assortativity_patterns.png  used on inp
 ut line 256.
-(pdftex.def)             Requested size: 455.24411pt x 650.92792pt.
+(pdftex.def)             Requested size: 432.48051pt x 618.39467pt.
  [7]
-Overfull \vbox (30.64482pt too high) has occurred while \output is active []
+Overfull \vbox (12.61157pt too high) has occurred while \output is active []
 
 
 [8 <./results/q3/Q3a_assortativity_patterns.png>]
-<results/q3/Q3b_comparative_analysis.png, id=97, 1004.7939pt x 354.8457pt>
+<results/q3/Q3b_comparative_analysis.png, id=216, 1004.7939pt x 354.8457pt>
 File: results/q3/Q3b_comparative_analysis.png Graphic file (type png)
 <use results/q3/Q3b_comparative_analysis.png>
 Package pdftex.def Info: results/q3/Q3b_comparative_analysis.png  used on input
  line 263.
-(pdftex.def)             Requested size: 455.24411pt x 160.7674pt.
+(pdftex.def)             Requested size: 432.48051pt x 152.73227pt.
  [9 <./results/q3/Q3b_comparative_analysis.png>] [10
 
 ] [11]
@@ -672,24 +660,14 @@ rentes com-mu-nau-t�s) pourraient-
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `homework_report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `homework_report.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  C6F97CC6506A59E970BF5A0FDB008F18;5167.
+Package rerunfilecheck Info: File `homework_report.out' has not changed.
+(rerunfilecheck)             Checksum: C6F97CC6506A59E970BF5A0FDB008F18;5167.
  ) 
 Here is how much of TeX's memory you used:
- 16207 strings out of 474486
- 260040 string characters out of 5743754
- 1938542 words of memory out of 5000000
- 38143 multiletter control sequences out of 15000+600000
+ 16241 strings out of 474486
+ 260545 string characters out of 5743754
+ 1939542 words of memory out of 5000000
+ 38177 multiletter control sequences out of 15000+600000
  578130 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,790b,570s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -716,9 +694,9 @@ KTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/lance/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/lance/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/lance/A
 ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on homework_report.pdf (19 pages, 3159400 bytes).
+Output written on homework_report.pdf (19 pages, 3170790 bytes).
 PDF statistics:
- 775 PDF objects out of 1000 (max. 8388607)
+ 875 PDF objects out of 1000 (max. 8388607)
  142 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 290 words of extra memory for PDF output out of 10000 (max. 10000000)
 
