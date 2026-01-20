@@ -337,7 +337,7 @@ où $\Gamma(u)$ dénote les voisins de $u$ dans $G_{train}$.
 
 \subsection{Résultats}
 
-\paragraph{Réseaux analysés.} Nous rapportons des résultats détaillés pour Northeastern19 (13 868 nœuds, 381 919 arêtes) à $f=0,05$ (19 072 arêtes de test). Des résultats supplémentaires de l'analyse EXAM\_2 couvrent 2 réseaux (American75, ...) avec des patterns similaires.
+\paragraph{Réseaux analysés.} Les résultats sont présentés pour Northeastern19 (13 868 nœuds, 381 919 arêtes) à $f=0,05$ (19 072 arêtes de test).
 
 \begin{table}[H]
 \centering
@@ -397,7 +397,7 @@ Jaccard & 0,0002 & 0,0006 & 0,0036 \\
 
 \section{Question 5 : Propagation de Labels}
 
-La propagation de labels semi-supervisée exploite l'homophilie du réseau pour inférer les attributs de nœuds manquants à partir des labels connus des voisins. Nous testons sur l'attribut \texttt{spécialité} en utilisant les données de l'analyse EXAM\_2.
+La propagation de labels semi-supervisée exploite l'homophilie du réseau pour inférer les attributs de nœuds manquants à partir des labels connus des voisins. L'algorithme est testé sur l'attribut \texttt{spécialité}.
 
 \subsection{Méthodologie}
 
@@ -465,7 +465,7 @@ La propagation de labels semi-supervisée exploite l'homophilie du réseau pour 
 
 \section{Question 6 : Détection de Communautés}
 
-La détection de communautés identifie des sous-graphes densément connectés correspondant à des groupes sociaux. Nous appliquons l'optimisation gloutonne de modularité à travers 6 réseaux de l'analyse EXAM\_2.
+La détection de communautés identifie des sous-graphes densément connectés correspondant à des groupes sociaux. L'optimisation gloutonne de modularité est appliquée à travers 6 réseaux universitaires.
 
 \subsection{Méthodologie}
 
